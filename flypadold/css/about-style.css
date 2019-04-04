@@ -1,0 +1,16 @@
+.jumbotron {
+  background-image: url(../images/bg/5.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 250px;
+  margin: 0!important;
+}
+.jumbotron h3 {
+  color: white;
+}
+.jumbotron p {
+  color: white;
+}
+.hr-faq {
+  margin-left: 0px;
+}
